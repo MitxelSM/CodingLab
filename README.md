@@ -21,13 +21,12 @@ Here, I keep:
 
 ## 🗂️ Structure
 
-Each language has its own folder:
+Each subject has its own folder:
 
 /python  
 /php  
 /bash  
-/javascript  
-/java
+/ipc 
 
 
 Inside each folder, you’ll find files organized by topic, difficulty, or date.
@@ -38,9 +37,13 @@ Inside each folder, you’ll find files organized by topic, difficulty, or date.
 
 - 🐍 Python (my favorite so far)  
 - 🐘 PHP (used in class and for personal practice)  
-- 🖥️ Bash (for Linux scripting)  
-- 🌐 JavaScript (getting started)  
-- ☕ Java (slowly exploring it)
+- 🖥️ Bash (for Linux scripting)
+  
+---
+
+## ⚙️ System Concepts I'm Exploring
+
+🧩 IPC (Inter-Process Communication – learning pipes, shared memory, and semaphores)
 
 ---
 
