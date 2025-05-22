@@ -23,10 +23,10 @@ Here, I keep:
 
 Each language has its own folder:
 
-/python\n
-/php\n
-/bash\n
-/javascript\n
+/python  
+/php  
+/bash  
+/javascript  
 /java
 
 
